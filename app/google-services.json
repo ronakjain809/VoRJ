@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "3364759518",
+    "firebase_url": "https://vorj-26e18.firebaseio.com",
+    "project_id": "vorj-26e18",
+    "storage_bucket": "vorj-26e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3364759518:android:56b45da1056bb1deeb5f4f",
+        "android_client_info": {
+          "package_name": "com.example.vorj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3364759518-jiueobv2l6gb28087l3rgkqqjdpiuhcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ML1bLsEIj-RXXUu9e-ETgcLwlN7s7wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3364759518-jiueobv2l6gb28087l3rgkqqjdpiuhcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
